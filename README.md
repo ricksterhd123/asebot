@@ -1,2 +1,2 @@
 # ASE client discord bot
-Get MTA player list from discord
+Get MTA:SA server player list from ASE on discord
